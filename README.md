@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaronxxie
 - 👀 I’m interested in business, music, travel, workouts(weights and calisthenics), and hiking
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on everything
+- 💞️ Connect me on LinkedIn!
 - 📫 See my email on my profile
 
 <!---
